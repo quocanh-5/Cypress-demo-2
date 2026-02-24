@@ -107,8 +107,3 @@ This project demonstrates:
 * Implementing reusable commands and data-driven testing
 
 
-Nếu bạn muốn, tôi có thể:
-
-* Nâng README lên mức “portfolio quality” nhìn chuyên nghiệp hơn nữa
-* Thêm badge (build status, Cypress version, etc.)
-* Hoặc thêm phần “Future Improvements” để repo nhìn senior hơn
